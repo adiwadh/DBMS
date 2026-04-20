@@ -1,4 +1,4 @@
-DBMS_LAB_ASSIGNMENTS(1,2,3):
+DBMS CAPSTONE PROJECT REPO: https://github.com/adiwadh/Music-Library
 
 Aditya Wadhawan 2401010023
 
